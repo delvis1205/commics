@@ -1,0 +1,7 @@
+{
+  "name": "Morásio AI - Advanced Image Editor",
+  "description": "Professional image editing, enhancement, and transformation powered by Gemini AI. Transform scenarios, styles, and quality with a single prompt.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
